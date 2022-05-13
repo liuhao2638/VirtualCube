@@ -1,0 +1,11 @@
+release/main.o
+release/mainview.o
+release/cube.o
+release/frame.o
+release/face.o
+release/mainwindow.o
+release/mainwidget.o
+release/cubedata.o
+release/moc_mainview.o
+release/moc_mainwindow.o
+release/moc_mainwidget.o

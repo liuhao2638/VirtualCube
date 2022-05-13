@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainview.o
+debug/cube.o
+debug/frame.o
+debug/face.o
+debug/mainwindow.o
+debug/mainwidget.o
+debug/cubedata.o
+debug/moc_mainview.o
+debug/moc_mainwindow.o
+debug/moc_mainwidget.o
