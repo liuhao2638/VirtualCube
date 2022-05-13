@@ -35,9 +35,9 @@ MainWindow::~MainWindow()
 }
 void MainWindow::getTutorial()
 {
-     QDesktopServices::openUrl(QUrl("https://www.baidu.com", QUrl::TolerantMode));
+     QDesktopServices::openUrl(QUrl("https://rubiks.com/", QUrl::TolerantMode));
 }
 void MainWindow::about()
 {
-     QDesktopServices::openUrl(QUrl("https://www.baidu.com", QUrl::TolerantMode));
+     QDesktopServices::openUrl(QUrl("https://github.com/liuhao2638/VirtualCube", QUrl::TolerantMode));
 }
